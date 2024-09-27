@@ -1,0 +1,5 @@
+[2024-09-27 06:41:18,345] INFO django.utils.autoreload Watching for file changes with StatReloader
+[2024-09-27 06:42:15,611] INFO django.server "POST /api/token/ HTTP/1.1" 200 483
+[2024-09-27 06:42:50,370] INFO items CreateItemView: Received POST request to create an item.
+[2024-09-27 06:42:50,435] INFO items CreateItemView: Item 'Laptop' created successfully with ID 3.
+[2024-09-27 06:42:50,436] INFO django.server "POST /api/items/ HTTP/1.1" 201 47
